@@ -1,1 +1,1 @@
-https://Bitbayana.github.io/rsschool-cv/cv
+https://Bitbayana.github.io/rsschool-cv
