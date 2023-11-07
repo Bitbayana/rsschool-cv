@@ -1,0 +1,16 @@
+/* Стилизация заголовка первого уровня */
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+/* Стилизация абзацев */
+p {
+    color: green;
+    font-size: 16px;
+}
+
+/* Фон страницы */
+body {
+    background-color: #f0f0f0;
+}
